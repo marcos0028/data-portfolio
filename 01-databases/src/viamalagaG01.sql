@@ -1,8 +1,4 @@
-/*Grupo G01 compuesto por*/
-/*García Crespo, Marcos*/
-/*González Gayubo, Juan*/
-/*Pérez Domínguez, Manuel*/
-/*Valentín Villanueva, Ruth*/
+
 
 
 /*******************************************************/
