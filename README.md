@@ -18,7 +18,6 @@ This repository contains selected projects demonstrating my skills in data analy
 |---|---|---|
 | SQL Database | Relational database design and analytical queries | SQL, PostgreSQL |
 | Deep Learning | Model training, evaluation and comparison | Python, Pytorch |
-| Time Series | Forecasting and model evaluation | R |
 | Data Analysis | Exploratory analysis and visualization of real-world data | R |
 | Statistics | Bachelor's thesis. Sampling Methods, Statistical Inference | Matlab |
 
